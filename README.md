@@ -1,6 +1,3 @@
-Voici la version mise à jour du README avec une section d'introduction illustrant l'architecture :
-
----
 
 # 🌐 Infrastructure AWS à Deux Niveaux avec Terraform
 
