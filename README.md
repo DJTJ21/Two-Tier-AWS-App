@@ -5,7 +5,7 @@
 
 Voici l'architecture de l'infrastructure AWS à deux niveaux que vous allez déployer :
 
-![Architecture AWS à Deux Niveaux](assets/two-tier-aws-app.png)
+![Architecture AWS à Deux Niveaux](assets/two-tier-app.svg)
 
 Cette architecture comprend un VPC avec des sous-réseaux publics et privés, des instances EC2, des groupes Auto Scaling, des NAT Gateways, un Application Load Balancer, et des bases de données managées avec Amazon RDS.
 
